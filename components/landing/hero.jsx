@@ -9,10 +9,10 @@ const Hero = () => {
 
         <div className="flex space-x-4">
           <Link
-            href="http://cooperpdf.com/register"
+            href="https://tally.so/r/npdG81"
             className="text-black flex justify-center items-center bg-white py-2 px-4 rounded-md"
           >
-            Registrarme
+            Obtén acceso
           </Link>
 
           <Link
